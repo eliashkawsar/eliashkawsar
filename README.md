@@ -1,4 +1,4 @@
-![Web Developer](https://pbs.twimg.com/profile_banners/967789136517230592/1659085940/1080x360)
+![Web Developer](https://pbs.twimg.com/profile_banners/967789136517230592/1659539521/600x200)
 <h2><span style="text-decoration: underline;">Hi, I'm Eliash Kawsar 👋</span></h2>
 <ul>
  	<li>I'm Web Developer.</li>
