@@ -1,5 +1,5 @@
 ![Web Developer]
-<a href="default.asp"><img src=["smiley.gif](https://pbs.twimg.com/profile_banners/967789136517230592/1672305248/600x200)"</a>
+![](https://pbs.twimg.com/profile_banners/967789136517230592/1672305248/600x200)
 
 <h2><span style="text-decoration: underline;">Hi, I'm Eliash Kawsar 👋</span></h2>
 <ul>
